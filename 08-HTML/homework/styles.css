@@ -1,0 +1,27 @@
+h1,h3,h4 {
+    color: white;
+
+}
+
+img {
+    width: 400px;
+}
+#thirdDiv{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(103, 106, 117);
+    padding: 50px;
+    border: 12px solid black
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+    color: aquamarine;
+}
+body{
+    background: url(https://th.bing.com/th/id/R.9bc98f55db5737c6b9601ea215f14467?rik=KHnUrkCPfnrXHg&riu=http%3a%2f%2fwww.solofondos.com%2fwp-content%2fuploads%2f2015%2f11%2ffondos-abstractos-para-paginas-web-para-fondo-celular-en-hd-12.jpg&ehk=vEDSmqThOpOh3RXe8UN8hB%2fvYoirTNzawxMKP%2bNCOhw%3d&risl=&pid=ImgRaw&r=0);
+    text-align: center;
+}
+div{
+    margin: auto;
+}
